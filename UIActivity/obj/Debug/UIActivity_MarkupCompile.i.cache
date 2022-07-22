@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\HYBrain\UIActivity\UIActivity\obj\Debug\
+D:\HYBrain\UIActivity\UIActivity\obj\Debug\
 UIActivity
 none
 false
 DEBUG;TRACE
-F:\HYBrain\UIActivity\UIActivity\App.xaml
-3-1881978261
+D:\HYBrain\UIActivity\UIActivity\App.xaml
+4-21409970
 
-14-150223803
+151233255274
 13-1310406943
-GuardianWindow.xaml;MainWindow.xaml;ViewDetails.xaml;
+GuardianWindow.xaml;MainWindow.xaml;ViewDetails.xaml;Window1.xaml;
 
-False
+True
 

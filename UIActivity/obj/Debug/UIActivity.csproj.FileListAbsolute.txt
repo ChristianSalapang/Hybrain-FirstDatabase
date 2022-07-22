@@ -39,3 +39,5 @@ D:\HYBrain\UIActivity\UIActivity\obj\Debug\UIActivity.csproj.CoreCompileInputs.c
 D:\HYBrain\UIActivity\UIActivity\obj\Debug\UIActivity.exe
 D:\HYBrain\UIActivity\UIActivity\obj\Debug\UIActivity.pdb
 D:\HYBrain\UIActivity\UIActivity\obj\Debug\App.baml
+D:\HYBrain\UIActivity\UIActivity\obj\Debug\Window1.g.cs
+D:\HYBrain\UIActivity\UIActivity\obj\Debug\Window1.baml
